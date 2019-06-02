@@ -1,0 +1,7 @@
+/lib
+/obj
+*.user
+*.suo
+/_build
+*.sublime-workspace
+/docs/sphinx-build-result
